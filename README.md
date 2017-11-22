@@ -1,2 +1,2 @@
 # Test-world
-Uma breve descrição sobre o repositório em questão.
+Meu nome é Samuel, gosto muito de tecnologia e ciência, e adoro café.
